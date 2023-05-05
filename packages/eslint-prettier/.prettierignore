@@ -1,7 +1,0 @@
-# Ignore Artifacts
-build
-coverage
-
-# Ignore node
-node_modules
-package-lock.json
