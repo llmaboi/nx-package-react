@@ -1,0 +1,6 @@
+{
+  "name": "shared-ui",
+  "dependencies": {
+    "config-mui": "*"
+  }
+}
