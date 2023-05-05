@@ -5,7 +5,8 @@ const Story: Meta<typeof Button> = {
   component: Button,
   title: 'Button',
   args: {
-    children: 'Test Button',
+    children: 'Fancy Button',
+    variant: 'contained',
   },
 };
 export default Story;
